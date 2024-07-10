@@ -1,4 +1,4 @@
-# Unit Commitment Problem is based on Prof. Rodrigo Moreno's course on Reliability and Risk Analysis of Power Systems at the Universidad de Chile.
+
 # https://www.notion.so/gerardoblanco/Unidad-VI-Operaci-n-del-Sistema-de-Potencia-d67ac0aa7da345e89048b13416f21df3
 using JuMP, HiGHS, XLSX, DataFrames, Plots
 
